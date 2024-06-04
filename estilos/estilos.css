@@ -1,0 +1,52 @@
+/* Estilos para la barra de navegación */
+.navbar {
+    background-color: rgba(255, 255, 255, 0.527);
+    font-size: 18px;
+    overflow: hidden;
+}
+
+.navbar img {
+    width: 120px;
+    height: auto;
+    margin-right: 100px; /* Espacio entre el logo y el texto del botón */
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+
+body{
+    /* background: url(../imagenes/fondoSite.png);*/ /* Aplicar  fondo */
+    background-color: grey;
+    background-size: cover; /* Modifico el tamaño (cubrir todo el fondo) */
+
+    text-align: center;
+}
+
+h1{
+    color: black;
+    font-size: 40px;
+    background-color:white;
+}
+
+h2{
+    color: black;
+    font-size: 30px;
+}
+
+img{
+    border-radius: 70px;
+}
+
+p{
+    color: black;
+    font-size: 20px;
+    background-color:rgba(255, 255, 255, 0.432);
+}
+
